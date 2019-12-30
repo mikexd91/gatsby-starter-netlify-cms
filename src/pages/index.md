@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hello Alyssaaaaaaa
+title: Hello Elliottttt
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
